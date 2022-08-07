@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>reveal.js</title>
+  <link rel="stylesheet" href="dist/reset.css">
+  <link rel="stylesheet" href="dist/reveal.css">
+  <link rel="stylesheet" href="dist/theme/white.css">
+
+  <!-- Theme used for syntax highlighted code -->
+  <link rel="stylesheet" href="plugin/highlight/monokai.css">
+  <!-- smartsteuer theme -->
+  <link rel="stylesheet" href="css/smartsteuer.css">
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+      <!----------------------------------------->
+      <!----------------- Title ----------------->
+      <!----------------------------------------->
+      <section data-state="main-slide" data-background-color="#0986d0">
+        <div class="main-slide-container">
+          <div class="left-column borderless">
+            <img src="images/smartsteuer_logo_white_rgb_2020-03-23.svg" alt="smartsteuer">
+          </div>
+          <div class="right-column">
+            <h2>Was muss ich tun, damit mein System unwartbar wird?</h2>
+            <h4>Frank Gerberding, 08.09.2022</h4>
+          </div>
+        </div>
+        <aside class="notes" data-markdown>
+          Notizen
+        </aside>
+      </section>
+
+      <!----------------------------------------->
+      <!-------------- Motivation --------------->
+      <!----------------------------------------->
+      <section>
+        <section data-state="main-slide" data-background-color="#0986d0">
+          <div class="main-slide-container">
+            <div class="left-column">
+              <img src="images/smartsteuer_logo_white_rgb_2020-03-23.svg" alt="smartsteuer">
+            </div>
+            <div class="right-column borderless">
+              <h3>Motivation</h3>
+            </div>
+          </div>
+          <aside class="notes" data-markdown>
+            Notizen
+          </aside>
+        </section>
+
+        <section>
+          <div class="container">
+            <header>Software Quality</header>
+            <main>
+              <img src="images/Clean-Code-Cover.jpg"      style="position: absolute; transform: scale(50%) rotate(-12deg); z-index: 1; left:  6%; top:  -7%; border: 10px solid white; box-shadow: 0 0 15px 0 #000000;" alt="Clean Code">
+              <img src="images/Design-Patterns-Cover.jpg" style="position: absolute; transform: scale(50%) rotate( -2deg); z-index: 1; left: 25%; top: -12%; border: 10px solid white; box-shadow: 0 0 15px 0 #000000;" alt="Design Patterns">
+              <img src="images/Refactoring-Cover.jpg"     style="position: absolute; transform: scale(50%) rotate( 10deg); z-index: 1; left: 45%; top:  -9%; border: 10px solid white; box-shadow: 0 0 15px 0 #000000;" alt="Refactoring">
+              <img src="images/DDD-Cover.jpg"             style="position: absolute; transform: scale(50%) rotate( -8deg); z-index: 1; left: 17%; top:  20%; border: 10px solid white; box-shadow: 0 0 15px 0 #000000;" alt="DDD">
+              <img src="images/Release-It-Cover.jpeg"     style="position: absolute; transform: scale(50%) rotate( 13deg); z-index: 1; left: 35%; top:  22%; border: 10px solid white; box-shadow: 0 0 15px 0 #000000;" alt="Release It">
+              <img src="images/Phoenix-Project-Cover.jpg" style="position: absolute; transform: scale(50%) rotate( 19deg); z-index: 1; left: 57%; top:  19%; border: 10px solid white; box-shadow: 0 0 15px 0 #000000;" alt="Release It">
+            </main>
+          </div>
+          <aside class="notes" data-markdown>
+            Notizen
+          </aside>
+        </section>
+
+        <section>
+          <div class="container">
+            <header>Legacy Software</header>
+            <main>
+              <img src="images/Legacy-Code-Cover.jpg"    style="position: absolute; transform: scale(70%) rotate( -6deg); z-index: 1; left: 15%; top: 1%; border: 10px solid white; box-shadow: 0 0 15px 0 #000000;" alt="Oliver">
+              <img src="images/Technical-Debt-Cover.jpg" style="position: absolute; transform: scale(70%) rotate(  5deg); z-index: 1; left: 43%; top: 2%; border: 10px solid white; box-shadow: 0 0 15px 0 #000000;" alt="Frank">
+            </main>
+          </div>
+          <aside class="notes" data-markdown>
+            Notizen
+          </aside>
+        </section>
+
+        <section>
+          <div class="container">
+            <header>Motivation</header>
+            <main>
+              <svg width="90%" height="90%" viewBox="0 0 5079 2717" version="1.1" xmlns="http://www.w3.org/2000/svg" xml:space="preserve"
+                   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+                <g id="Motivation" transform="matrix(1.02381,0,0,0.974927,0,0)">
+                  <rect x="0" y="0" width="4960.63" height="2786.4" style="fill:none;"/>
+                  <g transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
+                        <path d="M196.315,429C1864.12,432.272 3232.53,1853.78 4764.32,2128"
+                              style="fill:none;stroke:url(#_Linear1);stroke-width:25px;"/>
+                  </g>
+                  <g id="Coordinate-System" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
+                    <g transform="matrix(6.13352e-17,-1,1,5.63811e-17,-258.157,1228.68)">
+                      <text x="757.389px" y="373.775px"
+                            style="font-family:'Inter-Regular', 'Inter', 'sans-serif';font-size:83.333px;fill:rgb(50,50,50,0.5);">Quality</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,3731.83,2348.71)">
+                      <text x="838.237px" y="373.775px"
+                            style="font-family:'Inter-Regular', 'Inter', 'sans-serif';font-size:83.333px;fill:rgb(50,50,50,0.5);">Time</text>
+                    </g>
+                    <g transform="matrix(1.14143,0,0,1.40411,-429.188,-834.414)">
+                      <g transform="matrix(0.876095,-0,-0,0.712197,259.85,668.304)">
+                        <path d="M366.403,167.245L328.903,92.245L291.403,167.245L366.403,167.245Z"
+                              style="fill:rgb(50,50,50,0.5);"/>
+                        <path d="M4821.9,2448.74L4896.9,2486.24L4821.9,2523.74L4821.9,2448.74Z" style="fill:rgb(50,50,50,0.5);"/>
+                        <path d="M328.903,179.245L328.903,2486.24L4809.9,2486.24"
+                              style="fill:none;stroke:rgb(50,50,50,0.5);stroke-width:25px;stroke-linecap:square;"/>
+                      </g>
+                    </g>
+                  </g>
+                  <g class="fragment" data-fragment-index="3" id="How-to-follow-this-path-" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
+                        <g transform="matrix(1,0,0,1,0,-163)">
+                            <g transform="matrix(0.90391,0.427722,-0.427722,0.90391,552.024,-757.789)">
+                                <text x="1962.58px" y="849.713px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">H</text>
+                            </g>
+                          <g transform="matrix(0.899522,0.436876,-0.436876,0.899522,594.326,-804.823)">
+                                <text x="2046.84px" y="889.644px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
+                            </g>
+                          <g transform="matrix(0.895378,0.445306,-0.445306,0.895378,631.308,-844.256)">
+                                <text x="2112.38px" y="921.405px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">w</text>
+                            </g>
+                          <g transform="matrix(0.890754,0.454486,-0.454486,0.890754,690.869,-908.466)">
+                                <text x="2235.14px" y="982.846px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">t</text>
+                            </g>
+                          <g transform="matrix(0.888511,0.458856,-0.458856,0.888511,714.045,-932.181)">
+                                <text x="2275.31px" y="1003.31px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
+                            </g>
+                          <g transform="matrix(0.885434,0.464765,-0.464765,0.885434,761.757,-982.197)">
+                                <text x="2373.14px" y="1054.03px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">f</text>
+                            </g>
+                          <g transform="matrix(0.883932,0.467616,-0.467616,0.883932,781.914,-1002.68)">
+                                <text x="2410.77px" y="1073.75px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
+                            </g>
+                          <g transform="matrix(0.882753,0.469837,-0.469837,0.882753,811.265,-1033.65)">
+                                <text x="2476.67px" y="1108.65px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">l</text>
+                            </g>
+                          <g transform="matrix(0.882171,0.47093,-0.47093,0.882171,823.601,-1046.43)">
+                                <text x="2502.94px" y="1122.63px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">l</text>
+                            </g>
+                          <g transform="matrix(0.881306,0.472546,-0.472546,0.881306,837.333,-1060.28)">
+                                <text x="2529.27px" y="1136.66px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
+                            </g>
+                          <g transform="matrix(0.880327,0.474367,-0.474367,0.880327,865.767,-1089.98)">
+                                <text x="2593.14px" y="1170.9px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">w</text>
+                            </g>
+                          <g transform="matrix(0.879866,0.475223,-0.475223,0.879866,913.232,-1141.01)">
+                                <text x="2713.4px" y="1235.76px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">t</text>
+                            </g>
+                          <g transform="matrix(0.879974,0.475022,-0.475022,0.879974,928.223,-1157.52)">
+                                <text x="2754.64px" y="1258.04px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">h</text>
+                            </g>
+                          <g transform="matrix(0.880267,0.474479,-0.474479,0.880267,951.215,-1183.09)">
+                                <text x="2819.78px" y="1293.19px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">i</text>
+                            </g>
+                          <g transform="matrix(0.880689,0.473696,-0.473696,0.880689,958.734,-1192.04)">
+                                <text x="2845.72px" y="1307.18px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">s</text>
+                            </g>
+                          <g transform="matrix(0.882154,0.470961,-0.470961,0.882154,983.759,-1222.18)">
+                                <text x="2934.05px" y="1354.66px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">p</text>
+                            </g>
+                          <g transform="matrix(0.883469,0.46849,-0.46849,0.883469,1001.18,-1244)">
+                                <text x="3001.21px" y="1390.52px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">a</text>
+                            </g>
+                          <g transform="matrix(0.884766,0.466035,-0.466035,0.884766,1016.32,-1263.53)">
+                                <text x="3063.18px" y="1423.36px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">t</text>
+                            </g>
+                          <g transform="matrix(0.8863,0.463111,-0.463111,0.8863,1022.24,-1273.41)">
+                                <text x="3104.48px" y="1445.14px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">h</text>
+                            </g>
+                          <g transform="matrix(0.888184,0.459488,-0.459488,0.888184,1034.13,-1291.08)">
+                                <text x="3169.8px" y="1479.26px"
+                                      style="font-family:'Inter-Regular', 'Inter';font-size:125px;">?</text>
+                            </g>
+                        </g>
+                    <g transform="matrix(1,0,0,1,0,-163)">
+                            <g transform="matrix(1,-0,-0,1,-132.588,266.955)">
+                                <path d="M3531.25,1356.47L3581.9,1423.3L3498.05,1423.72L3531.25,1356.47Z"
+                                      style="fill:rgb(50,50,50);"/>
+                              <path d="M1806.95,524.045C2452.28,799.846 2872.52,1071.37 3528.1,1396.74"
+                                    style="fill:none;stroke:rgb(50,50,50);stroke-width:25px;"/>
+                            </g>
+                        </g>
+                    </g>
+                  <g class="fragment" data-fragment-index="1" id="Books-about-Quality"      transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
+                        <g transform="matrix(1,0,0,1,-394.62,870.128)">
+                            <text x="796.371px" y="456.861px"
+                                  style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">need knowledge</text>
+                          <text x="836.322px" y="581.861px"
+                                style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">about software</text>
+                          <text x="1087.3px" y="706.861px"
+                                style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">quality</text>
+                        </g>
+                    <g transform="matrix(1,-0,-0,1,-132.588,103.955)">
+                            <path d="M842.807,522.991L860.588,441.045L915.476,504.437L842.807,522.991Z"
+                                  style="fill:rgb(9,134,208);"/>
+                      <path d="M1022.09,1073.58C973.202,882.113 924.316,690.647 875.431,499.18"
+                            style="fill:none;stroke:rgb(9,134,208);stroke-width:25px;"/>
+                        </g>
+                    </g>
+                  <g class="fragment" data-fragment-index="2" id="Books-about-Legacy-Code"  transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
+                    <g transform="matrix(1,0,0,1,2741.56,413.593)">
+                      <text x="853.347px" y="478.426px"
+                            style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">need knowledge</text>
+                      <text x="735.715px" y="603.426px"
+                            style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">about how to handle</text>
+                      <text x="869.416px" y="728.426px"
+                            style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">legacy software</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,3540,160)">
+                      <g transform="matrix(1,-0,-0,1,-3672.59,-56.045)">
+                        <path d="M4381.05,1695.73L4360.59,1777.05L4307.81,1711.88L4381.05,1695.73Z"
+                              style="fill:rgb(255,102,0);"/>
+                        <path d="M4215.24,1118.17C4259.38,1318.27 4303.52,1518.36 4347.66,1718.45"
+                              style="fill:none;stroke:rgb(255,102,0);stroke-width:25px;"/>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+                <defs>
+                  <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse"
+                                  gradientTransform="matrix(4173.95,1695,-1695,4173.95,428,426)"><stop offset="0" style="stop-color:rgb(9,134,208);stop-opacity:1"/>
+                  <stop offset="1" style="stop-color:rgb(255,102,0);stop-opacity:1"/></linearGradient>
+                </defs>
+              </svg>
+            </main>
+          </div>
+          <aside class="notes" data-markdown>
+            Notizen
+          </aside>
+        </section>
+      </section>
+
+      <!----------------------------------------->
+      <!---------------- Kultur ----------------->
+      <!----------------------------------------->
+      <section data-state="main-slide" data-background-color="#0986d0">
+        <div class="main-slide-container">
+          <div class="left-column">
+            <img src="images/smartsteuer_logo_white_rgb_2020-03-23.svg" alt="smartsteuer">
+          </div>
+          <div class="right-column borderless">
+            <h3>Kulturelles Kräftespiel</h3>
+          </div>
+        </div>
+        <aside class="notes" data-markdown>
+          Notizen
+        </aside>
+      </section>
+
+      <!----------------------------------------->
+      <!---------------- Regeln ----------------->
+      <!----------------------------------------->
+      <section>
+        <section data-state="main-slide" data-background-color="#0986d0">
+          <div class="main-slide-container">
+            <div class="left-column">
+              <img src="images/smartsteuer_logo_white_rgb_2020-03-23.svg" alt="smartsteuer">
+            </div>
+            <div class="right-column borderless">
+              <h3>Regeln</h3>
+            </div>
+          </div>
+          <aside class="notes" data-markdown>
+            Notizen
+          </aside>
+        </section>
+
+        <section>
+          <div class="container">
+            <header>
+              Überschrift
+            </header>
+            <main>
+              Voluptatibus falli dolore per perpetua curae consetetur vocibus. Porttitor adipisci suscipiantur numquam
+              augue persequeris. Proin constituam deterruisset vestibulum id epicurei porttitor mentitum splendide
+              definitiones. Cu cu quisque orci perpetua commodo saperet sollicitudin dicant impetus. Instructior cubilia
+              accusata luptatum intellegat sed fringilla invenire molestie eripuit. Tellus tincidunt mutat tempor
+              condimentum tota.
+            </main>
+          </div>
+
+          <aside class="notes" data-markdown>
+            Dailies und COP-Dev-Meeting: inkl. DevOps und Data
+          </aside>
+        </section>
+      </section>
+
+      <!----------------------------------------->
+      <!-------- Taktisch vs Strategisch -------->
+      <!----------------------------------------->
+      <section>
+        <section data-state="main-slide" data-background-color="#0986d0">
+          <div class="main-slide-container">
+            <div class="left-column">
+              <img src="images/smartsteuer_logo_white_rgb_2020-03-23.svg" alt="smartsteuer">
+            </div>
+            <div class="right-column borderless">
+              <h3>Taktische vs Strategische Software-Entwicklung</h3>
+            </div>
+          </div>
+          <aside class="notes" data-markdown>
+            Notizen
+          </aside>
+        </section>
+
+        <section>
+          <div class="container">
+            <header>Taktische Software-Entwicklung</header>
+            <main>
+              Vivendo amet cras falli eleifend sonet definitionem. Vocent taciti consectetur nobis elit meliore eruditi
+              honestatis. Nibh sociosqu dis dapibus inimicus faucibus vivendo. Pertinacia dis utroque honestatis posuere
+              iisque deseruisse. Dicant honestatis lobortis a possit. Ancillae pro suas eirmod eloquentiam sonet.
+            </main>
+          </div>
+          <aside class="notes" data-markdown>
+            Notizen
+          </aside>
+        </section>
+
+        <section>
+          <div class="container">
+            <header>Strategische Software-Entwicklung</header>
+            <main>
+              Vivendo amet cras falli eleifend sonet definitionem. Vocent taciti consectetur nobis elit meliore eruditi
+              honestatis. Nibh sociosqu dis dapibus inimicus faucibus vivendo. Pertinacia dis utroque honestatis posuere
+              iisque deseruisse. Dicant honestatis lobortis a possit. Ancillae pro suas eirmod eloquentiam sonet.
+            </main>
+          </div>
+          <aside class="notes" data-markdown>
+            Notizen
+          </aside>
+        </section>
+      </section>
+
+      <!----------------------------------------->
+      <!------------ Zusammenfassung ------------>
+      <!----------------------------------------->
+      <section data-state="main-slide" data-background-color="#0986d0">
+        <div class="main-slide-container">
+          <div class="left-column">
+            <img src="images/smartsteuer_logo_white_rgb_2020-03-23.svg" alt="smartsteuer">
+          </div>
+          <div class="right-column borderless">
+            <h3>Zusammenfassung</h3>
+          </div>
+        </div>
+        <aside class="notes" data-markdown>
+          Notizen
+        </aside>
+      </section>
+
+      <!----------------------------------------->
+      <!----------------- Ende ------------------>
+      <!----------------------------------------->
+      <section data-state="main-slide" data-background-color="#0986d0">
+        <div class="main-slide-container">
+          <div class="left-column">
+            <img src="images/smartsteuer_logo_white_rgb_2020-03-23.svg" alt="smartsteuer">
+          </div>
+          <div class="right-column borderless">
+            <h3>Vielen Dank für Eure Aufmerksamkeit!</h3>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script src="dist/reveal.js"></script>
+  <script src="plugin/notes/notes.js"></script>
+  <script src="plugin/markdown/markdown.js"></script>
+  <script src="plugin/highlight/highlight.js"></script>
+  <script>
+    Reveal.initialize({
+      controls:    true,
+      progress:    true,
+      center:      false,
+      hash:        true,
+      slideNumber: true,
+      width:       1920,
+      height:      1080,
+      margin:      0.05,
+      totalTime:   60 * 20,
+      plugins:     [RevealNotes, RevealMarkdown, RevealHighlight],
+      pdfSeparateFragments: false
+    });
+  </script>
+</body>
+</html>

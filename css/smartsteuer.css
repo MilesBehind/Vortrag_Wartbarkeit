@@ -1,0 +1,150 @@
+@font-face {
+  src: url("https://rsms.me/inter/inter.css") format("woff");
+}
+
+:root {
+  --r-main-font:              'Inter';
+  --r-heading-font:           var(--r-main-font);
+  --r-background-color:       #ffffff;
+  --r-main-color:             #1b212b;
+  --r-heading-color:          var(--r-main-color);
+  --r-main-font-size:         42px;
+  --r-heading-font-weight:    600;
+  --r-heading1-size:          2.0em;
+  --r-heading2-size:          1.4em;
+  --r-heading3-size:          1.0em;
+  --r-heading4-size:          0.7em;
+  --r-heading-text-transform: none;
+
+  --r-color-darkblue:         #0986d0;
+  --r-color-orange:           #ff6600;
+  --r-color-green:            #54b558;
+
+  /*
+  --r-block-margin: #{$blockMargin};
+  --r-heading-margin: #{$headingMargin};
+  --r-heading-line-height: #{$headingLineHeight};
+  --r-heading-letter-spacing: #{$headingLetterSpacing};
+  --r-heading-text-shadow: #{$headingTextShadow};
+  --r-heading1-text-shadow: #{$heading1TextShadow};
+  --r-code-font: #{$codeFont};
+  --r-link-color: #{$linkColor};
+  --r-link-color-dark: #{darken($linkColor , 15% )};
+  --r-link-color-hover: #{$linkColorHover};
+  --r-selection-background-color: #{$selectionBackgroundColor};
+  --r-selection-color: #{$selectionColor};
+ */
+}
+
+section {
+  height: 100%;
+}
+
+.reveal.overview .slides section.present {
+  outline:        20px solid var(--r-color-darkblue);
+  outline-offset: 10px;
+}
+
+/* ------------------------- */
+
+section .container {
+  display:               grid;
+  grid-template-columns: 1fr;
+  grid-template-rows:    100px 1fr;
+  grid-template-areas:   "header" "body";
+  justify-items:         stretch;
+  align-items:           start;
+  height:                100%;
+}
+
+section .container header {
+  grid-area:             header;
+  align-self:            center;
+  background-image:      url('../images/smartsteuer-logo-only.svg');
+  background-repeat:     no-repeat;
+  background-size:       60px;
+  background-position-y: 15px;
+  padding-left:          90px;
+  font-size:             1.6em;
+  font-weight:           600;
+}
+
+section .container main {
+  grid-area:    body;
+  justify-self: center;
+  align-self:   center;
+  padding-top:  40px;
+}
+
+/* ------------------------- */
+
+:root .main-slide {
+  --r-main-font-size: 72px;
+  --r-main-color:     #ffffff;
+}
+
+.main-slide-container {
+  display:               grid;
+  grid-template-columns: 2fr 5fr;
+  grid-template-rows:    1fr;
+  grid-template-areas:   "left right";
+  height:                100%;
+}
+
+.main-slide-container .left-column {
+  grid-area:     left;
+  align-self:    center;
+  padding-right: 20px;
+  border-right:  1px solid rgba(255, 255, 255, 0.5);
+}
+
+.main-slide-container .right-column {
+  grid-area:   right;
+  align-self:  center;
+  border-left: solid 1px rgba(255, 255, 255, 0.5);
+}
+
+.main-slide-container h1,
+.main-slide-container h2,
+.main-slide-container h3,
+.main-slide-container h4,
+.main-slide-container h5,
+.main-slide-container h6 {
+  text-align:  left;
+  margin-left: 40px;
+  color:       #ffffff;
+}
+
+.main-slide-container img {
+  max-width:   80%;
+  margin-left: 1em;
+}
+
+.main-slide-container .borderless {
+  border: none;
+}
+
+/* ------------------------- */
+
+.reveal .slides {
+  text-align: left;
+}
+
+/* ------------------------- */
+
+img.logo {
+  display:   inline;
+  margin:    -8px 0;
+  max-width: 55px;
+}
+
+.indented {
+  margin-left: 50px;
+}
+
+.centered-slide-content {
+  display:         grid;
+  justify-content: center;
+  align-content:   center;
+  height:          100%;
+}
