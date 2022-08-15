@@ -3,87 +3,94 @@
 <svg width="100%" height="100%" viewBox="0 0 5079 2717" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g id="Motivation" transform="matrix(1.02381,0,0,0.974927,0,0)">
         <rect x="0" y="0" width="4960.63" height="2786.4" style="fill:none;"/>
-        <g transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
+        <g id="tatsächliche-Entwicklung" serif:id="tatsächliche Entwicklung" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
             <path d="M196.315,429C1864.12,432.272 3232.53,1853.78 4764.32,2128" style="fill:none;stroke:url(#_Linear1);stroke-width:25px;"/>
         </g>
+        <g id="ideale-Entwicklung" serif:id="ideale Entwicklung" transform="matrix(0.976744,0,0,1.02572,0,0)">
+            <path d="M328.903,325.045L4896.9,325.045" style="fill:none;stroke:rgb(9,134,208);stroke-width:18.75px;"/>
+        </g>
         <g id="Coordinate-System" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
-            <g opacity="0.5">
-                <g transform="matrix(6.13352e-17,-1,1,5.63811e-17,-258.157,1228.68)">
-                    <text x="757.389px" y="373.775px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);">Quality</text>
-                </g>
-                <g transform="matrix(1,0,0,1,3731.83,2348.71)">
-                    <text x="838.237px" y="373.775px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);">Time</text>
-                </g>
-                <g transform="matrix(1.14143,0,0,1.40411,-429.188,-834.414)">
-                    <g transform="matrix(0.876095,-0,-0,0.712197,259.85,668.304)">
-                        <path d="M366.403,167.245L328.903,92.245L291.403,167.245L366.403,167.245Z" style="fill:rgb(50,50,50);"/>
-                        <path d="M4821.9,2448.74L4896.9,2486.24L4821.9,2523.74L4821.9,2448.74Z" style="fill:rgb(50,50,50);"/>
-                        <path d="M328.903,152.245L328.903,2486.24L4836.9,2486.24" style="fill:none;stroke:rgb(50,50,50);stroke-width:25px;stroke-linecap:round;"/>
-                    </g>
+            <g transform="matrix(6.13352e-17,-1,1,5.63811e-17,-258.157,1228.68)">
+                <text x="726.494px" y="373.775px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);stroke:rgb(150,150,150);stroke-width:1px;stroke-miterlimit:2;">Qualität</text>
+            </g>
+            <g transform="matrix(1,0,0,1,3731.83,2348.71)">
+                <text x="881.797px" y="373.775px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);stroke:rgb(150,150,150);stroke-width:1px;stroke-miterlimit:2;">Zeit</text>
+            </g>
+            <g transform="matrix(1.14143,0,0,1.40411,-429.188,-834.414)">
+                <g transform="matrix(0.876095,-0,-0,0.712197,259.85,668.304)">
+                    <path d="M366.403,167.245L328.903,92.245L291.403,167.245L366.403,167.245Z" style="fill:rgb(150,150,150);"/>
+                    <path d="M4821.9,2448.74L4896.9,2486.24L4821.9,2523.74L4821.9,2448.74Z" style="fill:rgb(150,150,150);"/>
+                    <path d="M328.903,152.245L328.903,2486.24L4836.9,2486.24" style="fill:none;stroke:rgb(150,150,150);stroke-width:25px;stroke-linecap:round;"/>
                 </g>
             </g>
         </g>
-        <g id="How-to-follow-this-path-" serif:id="How to follow this path?" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
+        <g id="Wie-Pfad-folgen-" serif:id="Wie Pfad folgen?" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
             <g transform="matrix(1,0,0,1,0,-163)">
-                <g transform="matrix(0.90391,0.427722,-0.427722,0.90391,552.024,-757.789)">
-                    <text x="1962.58px" y="849.713px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">H</text>
+                <g transform="matrix(0.907968,0.41904,-0.41904,0.907968,514.289,-714.59)">
+                    <text x="1883.98px" y="813.533px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">W</text>
                 </g>
-                <g transform="matrix(0.899522,0.436876,-0.436876,0.899522,594.326,-804.823)">
-                    <text x="2046.84px" y="889.644px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
+                <g transform="matrix(0.903834,0.427884,-0.427884,0.903834,561.155,-769.366)">
+                    <text x="1992.19px" y="863.724px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">i</text>
                 </g>
-                <g transform="matrix(0.895378,0.445306,-0.445306,0.895378,631.308,-844.256)">
-                    <text x="2112.38px" y="921.405px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">w</text>
+                <g transform="matrix(0.901123,0.433564,-0.433564,0.901123,579.665,-788.819)">
+                    <text x="2019.27px" y="876.468px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">e</text>
                 </g>
-                <g transform="matrix(0.890754,0.454486,-0.454486,0.890754,690.869,-908.466)">
-                    <text x="2235.14px" y="982.846px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">t</text>
+                <g transform="matrix(0.896404,0.443237,-0.443237,0.896404,628.822,-842.693)">
+                    <text x="2117.16px" y="923.869px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">f</text>
                 </g>
-                <g transform="matrix(0.888511,0.458856,-0.458856,0.888511,714.045,-932.181)">
-                    <text x="2275.31px" y="1003.31px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
+                <g transform="matrix(0.89384,0.448385,-0.448385,0.89384,651.477,-866.318)">
+                    <text x="2155.27px" y="942.659px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
                 </g>
-                <g transform="matrix(0.885434,0.464765,-0.464765,0.885434,761.757,-982.197)">
-                    <text x="2373.14px" y="1054.03px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">f</text>
+                <g transform="matrix(0.891627,0.452771,-0.452771,0.891627,682.868,-900.344)">
+                    <text x="2222.2px" y="976.302px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">l</text>
                 </g>
-                <g transform="matrix(0.883932,0.467616,-0.467616,0.883932,781.914,-1002.68)">
-                    <text x="2410.77px" y="1073.75px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
+                <g transform="matrix(0.889611,0.456718,-0.456718,0.889611,700.358,-917.899)">
+                    <text x="2249.02px" y="989.87px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">g</text>
                 </g>
-                <g transform="matrix(0.882753,0.469837,-0.469837,0.882753,811.265,-1033.65)">
-                    <text x="2476.67px" y="1108.65px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">l</text>
+                <g transform="matrix(0.886957,0.461853,-0.461853,0.886957,735.242,-954.29)">
+                    <text x="2317.05px" y="1024.82px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">e</text>
                 </g>
-                <g transform="matrix(0.882171,0.47093,-0.47093,0.882171,823.601,-1046.43)">
-                    <text x="2502.94px" y="1122.63px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">l</text>
+                <g transform="matrix(0.884432,0.46667,-0.46667,0.884432,780.532,-1001.86)">
+                    <text x="2413.04px" y="1074.98px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">i</text>
                 </g>
-                <g transform="matrix(0.881306,0.472546,-0.472546,0.881306,837.333,-1060.28)">
-                    <text x="2529.27px" y="1136.66px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">o</text>
+                <g transform="matrix(0.88322,0.468959,-0.468959,0.88322,795.529,-1016.85)">
+                    <text x="2439.47px" y="1088.9px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">c</text>
                 </g>
-                <g transform="matrix(0.880327,0.474367,-0.474367,0.880327,865.767,-1089.98)">
-                    <text x="2593.14px" y="1170.9px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">w</text>
+                <g transform="matrix(0.881814,0.471597,-0.471597,0.881814,824.578,-1046.98)">
+                    <text x="2501.18px" y="1121.67px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">h</text>
                 </g>
-                <g transform="matrix(0.879866,0.475223,-0.475223,0.879866,913.232,-1141.01)">
-                    <text x="2713.4px" y="1235.76px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">t</text>
+                <g transform="matrix(0.880407,0.47422,-0.47422,0.880407,867.046,-1091.49)">
+                    <text x="2597.55px" y="1173.29px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">d</text>
                 </g>
-                <g transform="matrix(0.879974,0.475022,-0.475022,0.879974,928.223,-1157.52)">
-                    <text x="2754.64px" y="1258.04px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">h</text>
+                <g transform="matrix(0.880024,0.47493,-0.47493,0.880024,894.551,-1120.92)">
+                    <text x="2665.87px" y="1210.1px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">i</text>
                 </g>
-                <g transform="matrix(0.880267,0.474479,-0.474479,0.880267,951.215,-1183.09)">
-                    <text x="2819.78px" y="1293.19px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">i</text>
+                <g transform="matrix(0.879873,0.475208,-0.475208,0.879873,905.064,-1132.13)">
+                    <text x="2691.82px" y="1224.11px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">e</text>
                 </g>
-                <g transform="matrix(0.880689,0.473696,-0.473696,0.880689,958.734,-1192.04)">
-                    <text x="2845.72px" y="1307.18px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">s</text>
+                <g transform="matrix(0.879964,0.475041,-0.475041,0.879964,928.747,-1158.07)">
+                    <text x="2755.9px" y="1258.71px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">s</text>
                 </g>
-                <g transform="matrix(0.882154,0.470961,-0.470961,0.882154,983.759,-1222.18)">
-                    <text x="2934.05px" y="1354.66px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">p</text>
+                <g transform="matrix(0.880379,0.474271,-0.474271,0.880379,948.265,-1180.06)">
+                    <text x="2813.47px" y="1289.8px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">e</text>
                 </g>
-                <g transform="matrix(0.883469,0.46849,-0.46849,0.883469,1001.18,-1244)">
-                    <text x="3001.21px" y="1390.52px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">a</text>
+                <g transform="matrix(0.881389,0.472391,-0.472391,0.881389,966.853,-1202.17)">
+                    <text x="2877.37px" y="1324.25px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">m</text>
                 </g>
-                <g transform="matrix(0.884766,0.466035,-0.466035,0.884766,1016.32,-1263.53)">
-                    <text x="3063.18px" y="1423.36px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">t</text>
+                <g transform="matrix(0.883703,0.468048,-0.468048,0.883703,1000.84,-1244.08)">
+                    <text x="3003.88px" y="1391.95px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">P</text>
                 </g>
-                <g transform="matrix(0.8863,0.463111,-0.463111,0.8863,1022.24,-1273.41)">
-                    <text x="3104.48px" y="1445.14px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">h</text>
+                <g transform="matrix(0.885078,0.465443,-0.465443,0.885078,1018.34,-1266.45)">
+                    <text x="3073.78px" y="1428.95px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">f</text>
                 </g>
-                <g transform="matrix(0.888184,0.459488,-0.459488,0.888184,1034.13,-1291.08)">
-                    <text x="3169.8px" y="1479.26px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">?</text>
+                <g transform="matrix(0.886434,0.462855,-0.462855,0.886434,1024.08,-1275.78)">
+                    <text x="3111.87px" y="1449.01px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">a</text>
+                </g>
+                <g transform="matrix(0.888484,0.458908,-0.458908,0.888484,1033.82,-1291.39)">
+                    <text x="3174.05px" y="1481.48px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">d</text>
+                </g>
+                <g transform="matrix(0.890702,0.454588,-0.454588,0.890702,1044.04,-1308.35)">
+                    <text x="3242.84px" y="1516.99px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;">?</text>
                 </g>
             </g>
             <g transform="matrix(1,0,0,1,0,-163)">
@@ -95,26 +102,23 @@
         </g>
         <g id="Books-about-Quality" serif:id="Books about Quality" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
             <g transform="matrix(1,0,0,1,-394.62,870.128)">
-                <text x="796.371px" y="456.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">need kno<tspan x="1341.29px " y="456.861px ">w</tspan>ledge</text>
-                <text x="836.322px" y="581.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">about softwar</text>
-                <text x="1659.12px" y="581.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">e</text>
-                <text x="1087.3px" y="706.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">quality</text>
+                <text x="728.48px" y="491.361px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">benötigt<tspan x="1222.62px " y="491.361px ">e</tspan>s Kno<tspan x="1622.83px " y="491.361px ">w</tspan>-Ho<tspan x="1946.7px " y="491.361px ">w</tspan></text>
+                <text x="775.355px" y="616.361px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">zu Softwar<tspan x="1412.07px " y="616.361px ">e</tspan>-Qualität</text>
             </g>
             <g transform="matrix(1,-0,-0,1,-132.588,103.955)">
-                <path d="M842.807,522.991L860.588,441.045L915.476,504.437L842.807,522.991Z" style="fill:rgb(9,134,208);"/>
-                <path d="M1022.09,1073.58C973.202,882.113 924.316,690.647 875.431,499.18" style="fill:none;stroke:rgb(9,134,208);stroke-width:25px;"/>
+                <path d="M855.065,524.716L860.588,441.045L924.211,495.665L855.065,524.716Z" style="fill:rgb(9,134,208);"/>
+                <path d="M1126.34,1073.58C1045.5,881.174 964.664,688.768 883.828,496.361" style="fill:none;stroke:rgb(9,134,208);stroke-width:25px;"/>
             </g>
         </g>
         <g id="Books-about-Legacy-Code" serif:id="Books about Legacy Code" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
-            <g transform="matrix(1,0,0,1,2741.56,413.593)">
-                <text x="853.347px" y="478.426px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">need kno<tspan x="1398.27px " y="478.426px ">w</tspan>ledge</text>
-                <text x="735.715px" y="603.426px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">about ho<tspan x="1257.73px " y="603.426px ">w</tspan> t<tspan x="1439.19px " y="603.426px ">o</tspan> handle</text>
-                <text x="869.416px" y="728.426px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">legacy softwar<tspan x="1739.98px " y="728.426px ">e</tspan></text>
+            <g transform="matrix(1,0,0,1,2647.01,538.593)">
+                <text x="728.48px" y="478.426px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">benötigt<tspan x="1222.62px " y="478.426px ">e</tspan>s Kno<tspan x="1622.83px " y="478.426px ">w</tspan>-Ho<tspan x="1946.7px " y="478.426px ">w</tspan></text>
+                <text x="790.27px" y="603.426px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">zu Legacy-Softwar<tspan x="1913.67px " y="603.426px ">e</tspan></text>
             </g>
             <g transform="matrix(1,0,0,1,3540,160)">
                 <g transform="matrix(1,-0,-0,1,-3672.59,-56.045)">
-                    <path d="M4381.05,1695.73L4360.59,1777.05L4307.81,1711.88L4381.05,1695.73Z" style="fill:rgb(255,102,0);"/>
-                    <path d="M4215.24,1118.17C4259.38,1318.27 4303.52,1518.36 4347.66,1718.45" style="fill:none;stroke:rgb(255,102,0);stroke-width:25px;"/>
+                    <path d="M4375.54,1694.54L4360.59,1777.05L4303.55,1715.58L4375.54,1694.54Z" style="fill:rgb(255,102,0);"/>
+                    <path d="M4167.97,1118.17C4226.56,1318.6 4285.16,1519.03 4343.75,1719.46" style="fill:none;stroke:rgb(255,102,0);stroke-width:25px;"/>
                 </g>
             </g>
         </g>

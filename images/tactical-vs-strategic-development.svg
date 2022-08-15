@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 5079 2717" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-5669,0)">
+        <g id="tactical-vs-strategic" serif:id="tactical vs strategic" transform="matrix(1.00113,0,0,1,185.803,0)">
+            <rect x="5477" y="0" width="5073" height="2716.53" style="fill:none;"/>
+            <g id="base-effort" serif:id="base effort" transform="matrix(0.975044,0,0,1,144.884,0)">
+                <g id="base-effort1" serif:id="base effort" transform="matrix(4.77784,0,0,1.31744,-28551.9,-971.093)">
+                    <rect x="7191" y="2133" width="955" height="491.291" style="fill:rgb(9,134,208);"/>
+                </g>
+                <g transform="matrix(1.02444,0,0,1,7925.71,1773.88)">
+                    <text id="base-effort2" serif:id="base effort" x="707.756px" y="419.043px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:white;">base eff<tspan x="1037.48px 1088.62px 1124.95px " y="419.043px 419.043px 419.043px ">ort</tspan></text>
+                </g>
+            </g>
+            <g id="strategic-base-effort" serif:id="strategic base effort" transform="matrix(0.975044,0,0,1,144.884,0)">
+                <g id="base-effort3" serif:id="base effort" transform="matrix(4.77784,0,0,1.71145,-28551.9,-2005.09)">
+                    <rect x="7191" y="2133" width="955" height="491.291" style="fill:rgb(9,134,208);"/>
+                </g>
+                <g transform="matrix(1.02444,0,0,1,8317.14,1514.16)">
+                    <g id="base-effort4" serif:id="base effort">
+                        <text x="707.756px" y="390.188px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:white;">base eff<tspan x="1028.78px 1078.49px 1112.35px " y="390.188px 390.188px 390.188px ">ort</tspan></text>
+                        <text x="707.756px" y="490.188px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:white;">+ r<tspan x="815.651px 865.456px 895.936px " y="490.188px 490.188px 490.188px ">efa</tspan>ct<tspan x="1025.14px " y="490.188px ">o</tspan>rings</text>
+                        <text x="707.756px" y="590.188px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:white;">+ mor<tspan x="942.782px " y="590.188px ">e</tspan>/bett<tspan x="1192.1px " y="590.188px ">e</tspan>r t<tspan x="1327.19px " y="590.188px ">e</tspan>s</text>
+                        <text x="1423.81px" y="590.188px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:white;">t</text>
+                        <text x="1452.23px" y="590.188px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:white;">s</text>
+                        <text x="707.756px" y="690.188px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:white;">+ documentation</text>
+                    </g>
+                </g>
+            </g>
+            <g id="system-complexity" serif:id="system complexity" transform="matrix(0.975044,0,0,1,144.884,0)">
+                <g transform="matrix(0.99887,0,0,1,6.19028,0)">
+                    <path d="M5805.9,2486.24L5805.9,1645.43C7084.41,1644.24 8984.53,1605.77 10373.9,1423.3L10373.9,2486.24L5805.9,2486.24Z" style="fill:rgb(9,134,208);"/>
+                </g>
+                <g transform="matrix(1.02444,0,0,1,8314.74,1444.16)">
+                    <g id="base-effort5" serif:id="base effort">
+                        <text x="707.756px" y="410.188px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:white;">base eff<tspan x="1028.78px 1078.49px 1112.35px " y="410.188px 410.188px 410.188px ">ort</tspan></text>
+                        <text x="707.756px" y="510.188px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:white;">+ r<tspan x="815.71px 864.243px 893.007px " y="510.188px 510.188px 510.188px ">efa</tspan>ct<tspan x="1016.35px " y="510.188px ">o</tspan>rings</text>
+                        <text x="707.756px" y="610.188px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:white;">+ mor<tspan x="937.869px " y="610.188px ">e</tspan>/bett<tspan x="1176.51px " y="610.188px ">e</tspan>r t<tspan x="1309.32px " y="610.188px ">e</tspan>s</text>
+                        <text x="1401.41px" y="610.188px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:white;">t</text>
+                        <text x="1427.55px" y="610.188px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:white;">s</text>
+                        <text x="707.756px" y="710.188px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:white;">+ documentation</text>
+                        <text x="707.756px" y="810.188px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:white;">+ syst<tspan x="958.081px " y="810.188px ">e</tspan>m comple<tspan x="1403.69px " y="810.188px ">x</tspan>ity</text>
+                    </g>
+                </g>
+            </g>
+            <g id="tactical-effort" serif:id="tactical effort">
+                <g id="tactical-effort1" serif:id="tactical effort" transform="matrix(0.973942,0,0,1,150.92,0)">
+                    <g transform="matrix(1.02559,-0,-0,1,5468.58,-0)">
+                        <path d="M4733.43,245.833L4782.9,207L4784.29,269.874L4733.43,245.833Z" style="fill:rgb(255,102,0);"/>
+                        <path d="M328.903,1839C2570.51,1838.82 4173.11,1463.82 4763.67,247.683" style="fill:none;stroke:rgb(255,102,0);stroke-width:18.75px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.99887,0,0,1,8254.45,-100.407)">
+                    <g id="description">
+                        <text x="707.756px" y="383.043px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(150,150,150);">base eff<tspan x="1028.78px 1078.49px 1112.35px " y="383.043px 383.043px 383.043px ">ort</tspan></text>
+                        <text x="707.756px" y="483.043px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(150,150,150);">+ syst<tspan x="949.47px " y="483.043px ">e</tspan>m comple<tspan x="1380.46px " y="483.043px ">x</tspan>ity</text>
+                        <text x="707.756px" y="583.043px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(150,150,150);">+ change</text>
+                        <text x="1100.39px" y="583.043px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(150,150,150);">a</text>
+                        <text x="1144.89px" y="583.043px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(150,150,150);">mplification</text>
+                        <text x="707.756px" y="683.043px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(150,150,150);">+ mental load</text>
+                        <text x="707.756px" y="783.043px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(150,150,150);">+ unkno<tspan x="1025.58px " y="783.043px ">w</tspan>n unkno<tspan x="1404.96px " y="783.043px ">w</tspan>ns</text>
+                    </g>
+                </g>
+            </g>
+            <g id="additional-strategic-effort" serif:id="additional strategic effort">
+                <g transform="matrix(0.99887,0,0,1,5609.44,-103.955)">
+                    <g transform="matrix(1,-0,-0,1,-132.588,103.955)">
+                        <use xlink:href="#_Image1" x="1138.03" y="1685.53" width="73.804px" height="80.474px" transform="matrix(0.997356,0,0,0.993501,0,0)"/>
+                        <clipPath id="_clip2">
+                            <path d="M1235.37,1259.92C1209.23,1404.54 1183.09,1549.16 1156.96,1693.78L1181.56,1698.23C1207.7,1553.61 1233.83,1408.99 1259.97,1264.37L1235.37,1259.92Z"/>
+                        </clipPath>
+                        <g clip-path="url(#_clip2)">
+                            <use xlink:href="#_Image3" x="1168.06" y="1261.92" width="103.012px" height="438.303px" transform="matrix(0.990495,0,0,0.998413,0,0)"/>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(0.99887,0,0,1,5466.56,816.817)">
+                    <text id="additional-strategic-effort1" serif:id="additional strategic effort" x="736.458px" y="406.67px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:rgb(150,150,150);">additional str<tspan x="1273.69px 1322.04px 1353.94px " y="406.67px 406.67px 406.67px ">ate</tspan>gic eff<tspan x="1659.93px 1711.07px 1747.41px " y="406.67px 406.67px 406.67px ">ort</tspan></text>
+                </g>
+            </g>
+            <g id="additional-tactical-effort" serif:id="additional tactical effort" transform="matrix(1,0,0,1,1982.82,-248.96)">
+                <g transform="matrix(0.99887,0,0,1,5609.44,-103.955)">
+                    <g transform="matrix(1,-0,-0,1,-2117.65,352.915)">
+                        <path d="M4178.67,1132.82L4225.65,1202.28L4141.9,1198.19L4178.67,1132.82Z" style="fill:rgb(255,102,0);"/>
+                        <path d="M3783.1,953.316C3913.18,1026.5 4043.27,1099.68 4173.36,1172.86" style="fill:none;stroke:rgb(255,102,0);stroke-width:25px;"/>
+                    </g>
+                </g>
+                <g transform="matrix(0.99887,0,0,1,5530.49,816.817)">
+                    <text id="additional-strategic-effort2" serif:id="additional strategic effort" x="735.323px" y="406.67px" style="font-family:'Inter-Bold', 'Inter';font-weight:700;font-size:83.333px;fill:rgb(150,150,150);">additional tactical eff<tspan x="1597.07px 1648.2px 1684.54px " y="406.67px 406.67px 406.67px ">ort</tspan></text>
+                </g>
+            </g>
+            <g id="Coordinate-System" transform="matrix(0.99887,0,0,1,5609.44,-103.955)">
+                <g transform="matrix(6.12709e-17,-1,1,4.82939e-17,-258.157,1770.02)">
+                    <text x="895.438px" y="377.941px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);stroke:rgb(150,150,150);stroke-width:1px;stroke-miterlimit:2;">eff<tspan x="1002.21px 1051.92px 1085.78px " y="377.941px 377.941px 377.941px ">ort</tspan> per f<tspan x="1321.46px " y="377.941px ">e</tspan>atur<tspan x="1525.29px " y="377.941px ">e</tspan></text>
+                </g>
+                <g transform="matrix(1,0,0,1,3731.83,2348.71)">
+                    <text x="861.437px" y="373.775px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);stroke:rgb(150,150,150);stroke-width:1px;stroke-miterlimit:2;">time</text>
+                </g>
+                <g transform="matrix(1.14143,0,0,1.40411,-429.188,-834.414)">
+                    <g transform="matrix(0.876095,-0,-0,0.712197,259.85,668.304)">
+                        <path d="M366.403,167.245L328.903,92.245L291.403,167.245L366.403,167.245Z" style="fill:rgb(150,150,150);"/>
+                        <path d="M4821.9,2448.74L4896.9,2486.24L4821.9,2523.74L4821.9,2448.74Z" style="fill:rgb(150,150,150);"/>
+                        <path d="M328.903,152.245L328.903,2486.24L4836.9,2486.24" style="fill:none;stroke:rgb(150,150,150);stroke-width:25px;stroke-linecap:round;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="74px" height="81px" xlink:href="data:image/png;base64,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"/>
+        <image id="_Image3" width="104px" height="439px" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAG3AGgDAREAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAAAAMCBgcI/8QAJhABAAAEBgEEAwAAAAAAAAAAAAECBAUDBgcxQnEIE8LR0sHD0//EABkBAQEBAAMAAAAAAAAAAAAAAAACAQUGB//EACURAQAABQMEAgMAAAAAAAAAAAABBBZSkQKh0QMFUVMG4RVhYv/aAAwDAQACEQMRAD8A409deIgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPQcvj3buWZaqPVNLD3OmVT1PXDLvlHdL2xx9ty+Plo5Ziro9YMkGVT1fXDLaP6PsjiCkvj7YuV+uUepJIfhNUdayG6qPl/ZHZSXx/wAucr3do9enD2sqiYshvyqHxCWv1bcNy6AZW5Xe8x6nwoexlTzNmnflVISl+rbhSXQHKHK532PWNhQ/Wmp5q3TiPLaRk79WYcKS6CZMhvXXuPePh/zZU03bpxHlVJSV2rMOG5dCMlQ3x7xN3USfRNSznjTiPKqTkfOrMOFJdC8jw3jdI91MPqypJz9Y+20pIf1n6Ul0PyLDfCuE3dVH4TUc75hhVLSHiOVJdE8hQ3o62PdVMyop3zDCqX7fbHMW5dFsgQ3ttTN3V4nyyoJ66GINpjt1scxUl0a09hvZsWbusxfsn8/P37Q4VTXbrN48uwXDOeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//Z"/>
+    </defs>
+</svg>

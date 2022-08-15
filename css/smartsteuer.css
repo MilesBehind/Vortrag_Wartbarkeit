@@ -60,7 +60,7 @@ section .container {
 section .container header {
   grid-area:             header;
   align-self:            center;
-  background-image:      url('../images/smartsteuer-logo-only.svg');
+  background-image:      url('../images/smartsteuer/smartsteuer-logo-only.svg');
   background-repeat:     no-repeat;
   background-size:       60px;
   background-position-y: 15px;
