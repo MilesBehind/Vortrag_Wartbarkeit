@@ -148,3 +148,20 @@ img.logo {
   align-content:   center;
   height:          100%;
 }
+
+.highlight-smartsteuer-orange {
+  color: var(--r-color-orange);
+}
+
+.highlight-smartsteuer-blue {
+  color: var(--r-color-darkblue);
+}
+
+.moral::before {
+  content:  url("../images/smartsteuer/smartsteuer-blue-logo-only.svg");
+  display:  inline-block;
+  position: relative;
+  left:     -20px;
+  width:    30px;
+  height:   30px;
+}
