@@ -165,3 +165,7 @@ img.logo {
   width:    30px;
   height:   30px;
 }
+
+.not-allowed {
+  text-decoration: line-through var(--r-color-orange);
+}

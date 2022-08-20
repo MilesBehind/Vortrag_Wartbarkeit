@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 5079 2717" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g id="Motivation" transform="matrix(1.02381,0,0,0.974927,0,0)">
+    <g id="motivation" transform="matrix(1.02381,0,0,0.974927,0,0)">
         <rect x="0" y="0" width="4960.63" height="2786.4" style="fill:none;"/>
         <g id="tatsächliche-Entwicklung" serif:id="tatsächliche Entwicklung" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
             <path d="M196.315,429C1864.12,432.272 3232.53,1853.78 4764.32,2128" style="fill:none;stroke:url(#_Linear1);stroke-width:25px;"/>
@@ -102,8 +102,11 @@
         </g>
         <g id="Books-about-Quality" serif:id="Books about Quality" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
             <g transform="matrix(1,0,0,1,-394.62,870.128)">
-                <text x="728.48px" y="491.361px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">benötigt<tspan x="1222.62px " y="491.361px ">e</tspan>s Kno<tspan x="1622.83px " y="491.361px ">w</tspan>-Ho<tspan x="1946.7px " y="491.361px ">w</tspan></text>
-                <text x="775.355px" y="616.361px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">zu Softwar<tspan x="1412.07px " y="616.361px ">e</tspan>-Qualität</text>
+                <text x="728.832px" y="428.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">w<tspan x="828.086px " y="428.861px ">e</tspan>nn ich mein Kno<tspan x="1837.14px " y="428.861px ">w</tspan></text>
+                <text x="1938.7px" y="428.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">-</text>
+                <text x="1994.98px" y="428.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">Ho<tspan x="2159.76px " y="428.861px ">w</tspan></text>
+                <text x="882.06px" y="553.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">zu Softwar<tspan x="1518.78px " y="553.861px ">e</tspan>-Qualität</text>
+                <text x="922.809px" y="678.861px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">hier genutzt habe...</text>
             </g>
             <g transform="matrix(1,-0,-0,1,-132.588,103.955)">
                 <path d="M855.065,524.716L860.588,441.045L924.211,495.665L855.065,524.716Z" style="fill:rgb(9,134,208);"/>
@@ -111,9 +114,10 @@
             </g>
         </g>
         <g id="Books-about-Legacy-Code" serif:id="Books about Legacy Code" transform="matrix(0.976744,0,0,1.02572,129.504,-106.628)">
-            <g transform="matrix(1,0,0,1,2647.01,538.593)">
-                <text x="728.48px" y="478.426px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">benötigt<tspan x="1222.62px " y="478.426px ">e</tspan>s Kno<tspan x="1622.83px " y="478.426px ">w</tspan>-Ho<tspan x="1946.7px " y="478.426px ">w</tspan></text>
-                <text x="790.27px" y="603.426px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">zu Legacy-Softwar<tspan x="1913.67px " y="603.426px ">e</tspan></text>
+            <g transform="matrix(1,0,0,1,2647.01,424.056)">
+                <text x="742.596px" y="473.195px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">...um mein Kno<tspan x="1608.72px " y="473.195px ">w</tspan>-Ho<tspan x="1932.58px " y="473.195px ">w</tspan></text>
+                <text x="725.639px" y="598.195px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">über Legacy-Softwar<tspan x="1978.3px " y="598.195px ">e</tspan></text>
+                <text x="865.643px" y="723.195px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">nutz<tspan x="1122.57px " y="723.195px ">e</tspan>n zu k<tspan x="1544.27px " y="723.195px ">ö</tspan>nnen</text>
             </g>
             <g transform="matrix(1,0,0,1,3540,160)">
                 <g transform="matrix(1,-0,-0,1,-3672.59,-56.045)">

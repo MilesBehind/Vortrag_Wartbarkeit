@@ -5,26 +5,38 @@
         <g id="experiments-1" serif:id="experiments 1" transform="matrix(1.00113,0,0,1,185.803,13228)">
             <rect x="5477" y="0" width="5073" height="2716.53" style="fill:none;"/>
             <g transform="matrix(2.70374,0,0,2.7068,5505.05,-938.981)">
-                <g transform="matrix(1,0,0,1,-1492.77,-2683.6)">
-                    <path d="M2351.24,3634.68L2436.78,3634.72L2407.3,3685.78C2433.35,3700.84 2463.58,3709.47 2495.81,3709.47C2537.57,3709.47 2575.97,3694.99 2606.27,3670.78L2665.72,3773.75C2617.65,3807.66 2559.04,3827.58 2495.81,3827.58C2442.08,3827.58 2391.68,3813.2 2348.25,3788.07L2318.82,3839.04L2200.66,3634.61L2218.77,3634.61L2218.75,3634.58L2351.16,3634.58L2351.24,3634.68ZM2672.97,3532.3C2672.97,3457.37 2626.36,3393.25 2560.57,3367.37L2620.02,3264.39C2721,3311.33 2791.08,3413.69 2791.08,3532.3L2849.99,3532.3L2732.03,3736.85L2722.87,3720.98L2722.84,3721.02L2656.72,3606.49L2656.77,3606.36L2614.07,3532.3L2672.97,3532.3ZM2545.81,3241.25L2545.82,3241.25L2479.64,3355.87L2479.56,3355.87L2436.72,3429.98L2407.22,3378.87C2354.28,3409.52 2318.64,3466.78 2318.64,3532.3C2318.64,3541.29 2319.31,3550.12 2320.61,3558.75L2201.7,3558.75C2200.93,3550.04 2200.53,3541.22 2200.53,3532.3C2200.53,3423.1 2259.94,3327.66 2348.16,3276.58L2318.76,3225.66L2554.89,3225.55L2545.81,3241.25Z" style="fill:rgb(9,134,208);"/>
-                </g>
-                <g transform="matrix(0.36944,0,0,0.36944,608.647,314.47)">
-                    <text x="876.339px" y="449.797px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:125px;fill:rgb(50,50,50);stroke:rgb(9,134,208);stroke-width:1px;">Customer</text>
-                </g>
-                <g transform="matrix(0.36944,0,0,0.36944,205.488,533.057)">
-                    <text x="1015.19px" y="449.797px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:125px;fill:rgb(255,102,0);">build</text>
-                </g>
-                <g transform="matrix(0.36944,0,0,0.36944,1015.82,533.057)">
-                    <text x="904.079px" y="449.797px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:125px;fill:rgb(255,102,0);">measure</text>
-                </g>
-                <g transform="matrix(0.36944,0,0,0.36944,608.647,1083.65)">
-                    <text x="1008.27px" y="449.797px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:125px;fill:rgb(255,102,0);">learn</text>
+                <g id="learn">
+                    <g transform="matrix(1,0,0,1,-1492.77,-2683.6)">
+                        <path d="M2351.24,3634.68L2436.78,3634.72L2407.3,3685.78C2433.35,3700.84 2463.58,3709.47 2495.81,3709.47C2537.57,3709.47 2575.97,3694.99 2606.27,3670.78L2665.72,3773.75C2617.65,3807.66 2559.04,3827.58 2495.81,3827.58C2442.08,3827.58 2391.68,3813.2 2348.25,3788.07L2318.82,3839.04L2200.66,3634.61L2218.77,3634.61L2218.75,3634.58L2351.16,3634.58L2351.24,3634.68Z" style="fill:rgb(9,134,208);"/>
+                    </g>
+                    <g transform="matrix(0.36944,0,0,0.36944,608.647,1083.65)">
+                        <text x="1000.94px" y="450.482px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(255,102,0);">learn</text>
+                    </g>
                 </g>
                 <g transform="matrix(0.36944,0,0,0.36944,1015.82,864.866)">
-                    <text x="914.516px" y="449.797px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:125px;fill:rgb(50,50,50);">Analysis</text>
+                    <text x="903.369px" y="450.482px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">Analysis</text>
+                </g>
+                <g id="measure">
+                    <g transform="matrix(1,0,0,1,-1492.77,-2683.6)">
+                        <path d="M2672.97,3532.3C2672.97,3457.37 2626.36,3393.25 2560.57,3367.37L2620.02,3264.39C2721,3311.33 2791.08,3413.69 2791.08,3532.3L2849.99,3532.3L2732.03,3736.85L2722.87,3720.98L2722.84,3721.02L2656.72,3606.49L2656.77,3606.36L2614.07,3532.3L2672.97,3532.3Z" style="fill:rgb(9,134,208);"/>
+                    </g>
+                    <g transform="matrix(0.36944,0,0,0.36944,1015.82,533.057)">
+                        <text x="893.692px" y="450.482px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(255,102,0);">measur<tspan x="1328px " y="450.482px ">e</tspan></text>
+                    </g>
+                </g>
+                <g transform="matrix(0.36944,0,0,0.36944,608.647,314.47)">
+                    <text x="859.157px" y="450.482px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);stroke:rgb(9,134,208);stroke-width:1px;">Cust<tspan x="1132.77px " y="450.482px ">o</tspan>mer</text>
+                </g>
+                <g id="build">
+                    <g transform="matrix(1,0,0,1,-1492.77,-2683.6)">
+                        <path d="M2545.81,3241.25L2545.82,3241.25L2479.64,3355.87L2479.56,3355.87L2436.72,3429.98L2407.22,3378.87C2354.28,3409.52 2318.64,3466.78 2318.64,3532.3C2318.64,3541.29 2319.31,3550.12 2320.61,3558.75L2201.7,3558.75C2200.93,3550.04 2200.53,3541.22 2200.53,3532.3C2200.53,3423.1 2259.94,3327.66 2348.16,3276.58L2318.76,3225.66L2554.89,3225.55L2545.81,3241.25Z" style="fill:rgb(9,134,208);"/>
+                    </g>
+                    <g transform="matrix(0.36944,0,0,0.36944,205.488,533.057)">
+                        <text x="1003.69px" y="450.482px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(255,102,0);">build</text>
+                    </g>
                 </g>
                 <g transform="matrix(0.36944,0,0,0.36944,4.2591,864.866)">
-                    <text x="955.678px" y="449.797px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:125px;fill:rgb(50,50,50);">Development</text>
+                    <text x="933.487px" y="450.482px" style="font-family:'Inter-Regular', 'Inter';font-size:125px;fill:rgb(50,50,50);">De<tspan x="1094px 1161.11px " y="450.482px 450.482px ">ve</tspan>lopment</text>
                 </g>
             </g>
         </g>
