@@ -449,8 +449,8 @@
                 </g>
             </g>
             <g id="Coordinate-System" transform="matrix(0.99887,0,0,1,5609.44,-103.955)">
-                <g transform="matrix(6.12709e-17,-1,1,4.82939e-17,-258.157,1770.02)">
-                    <text x="895.438px" y="377.941px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);stroke:rgb(150,150,150);stroke-width:1px;stroke-miterlimit:2;">eff<tspan x="1002.21px 1051.92px 1085.78px " y="377.941px 377.941px 377.941px ">ort</tspan> per f<tspan x="1321.46px " y="377.941px ">e</tspan>atur<tspan x="1525.29px " y="377.941px ">e</tspan></text>
+                <g transform="matrix(6.12614e-17,-1,1,4.40591e-17,-258.157,2053.49)">
+                    <text x="902.037px" y="377.941px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);stroke:rgb(150,150,150);stroke-width:1px;stroke-miterlimit:2;">cumulative maintenance</text>
                 </g>
                 <g transform="matrix(1,0,0,1,3731.83,2348.71)">
                     <text x="861.437px" y="373.775px" style="font-family:'Inter-Regular', 'Inter';font-size:83.333px;fill:rgb(50,50,50);stroke:rgb(150,150,150);stroke-width:1px;stroke-miterlimit:2;">time</text>
